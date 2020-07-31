@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Any Colour You Like
-name: Any Colour You Like
+title: Página Pessoal de Ana Nunes
+name: Página Pessoal de Ana Nunes
 description: 
-  Apenas delírios de um estudante de engenharia tentando se manter são na quarentena.
+  Página pessoal da professora Ana Nunes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "amsn-prof.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mvsn-ufrn
