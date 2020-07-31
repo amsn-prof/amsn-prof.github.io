@@ -12,8 +12,6 @@ menu:
         link: /projects/port
       - name: Ciências
         link: /projects/cien
-  - name: Posts
-    link: /
   - name: Sobre
     link: /about
   # - name: Follow me
