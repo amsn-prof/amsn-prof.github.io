@@ -56,7 +56,7 @@ h3:before {
 	width: 100%;
 	/* Set the fixed height of the footer here */
 	height: 8em;
-	background-color: lavender;
+	background-color:lavender;
 	bottom: 0;
 }
 
@@ -73,7 +73,7 @@ h3:before {
 }
 
 .navbar-default {
-	background-color: lavender;
+	background-color:lavender;
 	border-color: #12421f;
 	text-transform: uppercase;
 	font-size: 1.3em;
@@ -102,7 +102,7 @@ h3:before {
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu {
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu>li>a {
@@ -112,7 +112,7 @@ h3:before {
 .navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover,
 	.navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
 	color: #000000;
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu>li>.divider {
@@ -123,32 +123,32 @@ h3:before {
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 	color: #000000;
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
 	.navbar-default .navbar-nav>.active>a:focus {
 	color: #000000;
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,
 	.navbar-default .navbar-nav>.open>a:focus {
 	color: #000000;
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-toggle {
-	border-color: lavender;
+	border-color:lavender;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
 	{
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: lavender;
+	background-color:lavender;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -175,6 +175,6 @@ h3:before {
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 		color: #000000;
-		background-color: lavender;
+		background-color:lavender;
 	}
 }
