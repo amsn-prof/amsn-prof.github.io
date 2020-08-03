@@ -56,7 +56,7 @@ h3:before {
 	width: 100%;
 	/* Set the fixed height of the footer here */
 	height: 8em;
-	background-color: black;
+	background-color: cadetblue;
 	bottom: 0;
 }
 
@@ -73,7 +73,7 @@ h3:before {
 }
 
 .navbar-default {
-	background-color: black;
+	background-color: cadetblue;
 	border-color: #12421f;
 	text-transform: uppercase;
 	font-size: 1.3em;
@@ -102,7 +102,7 @@ h3:before {
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu {
-	background-color: black;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu>li>a {
@@ -112,43 +112,43 @@ h3:before {
 .navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover,
 	.navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu>li>.divider {
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
 	.navbar-default .navbar-nav>.active>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,
 	.navbar-default .navbar-nav>.open>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-toggle {
-	border-color: #12421f;
+	border-color: cadetblue;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
 	{
-	background-color: #12421f;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #ffffff;
+	background-color: cadetblue;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -175,6 +175,6 @@ h3:before {
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 		color: #ffffff;
-		background-color: #12421f;
+		background-color: cadetblue;
 	}
 }
