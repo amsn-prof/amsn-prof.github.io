@@ -56,7 +56,7 @@ h3:before {
 	width: 100%;
 	/* Set the fixed height of the footer here */
 	height: 8em;
-	background-color:lavender;
+	background-color:lightskyblue;
 	bottom: 0;
 }
 
@@ -73,7 +73,7 @@ h3:before {
 }
 
 .navbar-default {
-	background-color:lavender;
+	background-color:lightskyblue;
 	text-transform: uppercase;
 	font-size: 1.3em;
 }
