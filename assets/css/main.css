@@ -31,16 +31,12 @@ body {
 }
 
 .footer {
-	position: absolute;
+	
 	padding-bottom: 3rem;
 	padding-top: 3rem;
 	text-align: center;
-	bottom: 0;
-	width: 100%;
 	/* Set the fixed height of the footer here */
-	height: 12em;
 	background-color:lightskyblue;
-	bottom: 0;
 }
 
 .footer-links {
