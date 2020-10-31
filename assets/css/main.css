@@ -34,6 +34,7 @@ body {
 	position: absolute;
 	padding-right: 1em;
 	padding-top: 1.5em;
+	text-align: center;
 	bottom: 0;
 	width: 100%;
 	/* Set the fixed height of the footer here */
@@ -45,8 +46,8 @@ body {
 .footer-links {
 	margin: 0 0 0 0em;
 	padding: 0;
-	float: right;
-	text-align: right;
+	float: center;
+	text-align: center;
 }
 
 .footer-links>li {
